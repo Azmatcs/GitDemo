@@ -9,7 +9,11 @@ public class ApiTest {
 	{
 		System.out.println("Api out put1");
 	}
+@Test
 
+public void Tes()
+{
+	System.out.println("Change");}
 	@Test
 	public void Appi()
 	{

@@ -14,5 +14,6 @@ public class AppiumTest {
 	public void Apim()
 	{
 		System.out.println("Appium output2");
+		System.out.println("Added ");
 	}
 }
